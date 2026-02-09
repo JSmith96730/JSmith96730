@@ -2,16 +2,17 @@
 
 ###
 
-<p align="left">My name is <b>John Smith</b> and i'm a Filipino Software Engineer.
+<p align="left">My name is <b>John Smith</b> and I'm a Filipino Software Engineer.
 
 ###
 
 <h2 align="left">Links</h2>
 
 <div align="left">
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.gg/sbPzgBFu"
+   target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="ksgkdu96@gmail.com" target="_blank">
+  <a href="mailto:ksgkdu96@gmail.com" target="_blank">
     <img src="google.jpg" width="52" height="40" alt="google logo"  /></a>
 </div>
 
@@ -56,7 +57,7 @@ I’m interested in machine learning, data-driven solutions, and building intell
 
 ###
 
-<h2 align="left">Other technologies i like to use</h2>
+<h2 align="left">Other technologies I like to use</h2>
 
 ###
 
