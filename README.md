@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>John Smith</b> and I'm a Filipino Software Engineer.
+<p align="left">My name is <b>John Smith</b> and I'm a Canadian Software Engineer.
 
 ###
 
