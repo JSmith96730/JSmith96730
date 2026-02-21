@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Brazilian Software Engineer.
+<p align="left">I'm an AI Software Engineer.
 
 ###
 
